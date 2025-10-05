@@ -1,0 +1,12 @@
+pandas              # data manipulation and cleaning
+numpy               # numerical operations
+matplotlib          # basic data visualization
+seaborn             # advanced visualization
+plotly              # interactive charts and dashboards
+folium              # geospatial mapping
+requests            # REST API calls
+beautifulsoup4      # web scraping
+scikit-learn        # machine learning and model training
+dash                # web-based data visualization
+ipython             # Jupyter environment support
+notebook            # for running Jupyter notebooks
